@@ -1,0 +1,25 @@
+span {
+    height: 50px;
+    width: 50px;
+    background: #00ff00;
+
+}
+div{
+    height: 200px;
+    width: 25%;
+    background: #00ffff;
+    overflow: scroll;
+    display: inline-block;
+}
+p{
+    background: #ff00ff;
+    width: 200px;
+    height: 100px;
+    display: inline-block;
+}
+img{
+    width: 400px;height: 500px;
+}
+body{
+    text-align: center;
+}

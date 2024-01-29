@@ -1,0 +1,18 @@
+body {
+    background-color:#0a092d;
+}
+h1 {
+    line-height: 50px;
+    font-family: Courier, Impact, Arial;font-weight: 600;
+    color: #339BEB;
+} 
+p {
+    color: white;
+    font-family: Courier, Impact, Arial;
+}
+
+a{
+    color: #0a092d;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+}
