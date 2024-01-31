@@ -8,11 +8,12 @@ h1 {
 } 
 p {
     color: white;
-    font-family: Courier, Impact, Arial;
+   
 }
 
 a{
-    color: #0a092d;
+    color: white;
     text-decoration: none;
     font-family: Arial, sans-serif;
+    text-align: center;
 }

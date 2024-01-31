@@ -1,0 +1,57 @@
+div{
+    display: grid;
+    grid-template-columns: 70% 70%;
+    
+    
+}
+body{
+    background-color:white;
+    color: black;
+}
+img{
+    width: auto;
+    height: auto;
+}
+a{
+display: block;
+font-weight: bold;
+color: #ffffff;
+background: yellowgreen;
+width: 200px;
+text-align: center;
+padding: 4px;
+text-decoration: none;
+margin: 0 auto;
+margin-top: 10px;
+}
+
+a:hover{
+      background: salmon;
+      color: blue;
+}
+
+/* a:focus{
+    background: #B3B3B3;
+    color: #0006CC;
+} */
+nav a{
+    text-align: center;
+    color: aqua;
+    background: fuchsia;
+    display: inline-block;
+    width: 20%;
+    margin-right: 2%;
+}
+
+ol{
+    list-style-type: upper-roman;
+}
+ul{
+    list-style-type: square;
+}
+a[href$=".gov"]{
+    background:blue;
+}
+a[href$=".edu"]{
+    background:red;
+}
