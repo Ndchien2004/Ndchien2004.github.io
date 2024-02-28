@@ -17,3 +17,7 @@ a{
     font-family: Arial, sans-serif;
     text-align: center;
 }
+.grid{
+    margin: 10px 20px 30px 40px;
+    padding: 5px;
+}
